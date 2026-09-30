@@ -259,7 +259,7 @@ function drawMark(png, ox, oy, s) {
   drawText(png, "PY", wx, wy, 8, TEXT);
   drawText(png, "RE", wx + textWidth("PY", 8) + 10, wy, 8, GREEN);
   rect(png, wx + textWidth("PYRE", 8) + 34, wy, 20, 56, GREEN);
-  drawText(png, "THE DEV BUYS FIRST, THEN BURNS IT.", wx + 2, wy + 84, 4, MUTED);
+  drawText(png, "ZERO DEV BAG, FOREVER.", wx + 2, wy + 84, 4, MUTED);
   drawText(png, "PUMP.FUN LAUNCHES WHERE THE DEV BUY", wx + 2, wy + 140, 3, TEXT);
   drawText(png, "IS BURNED — ZERO DEV BAG, FOREVER", wx + 2, wy + 172, 3, TEXT);
   drawText(png, "PYRELAUNCH.LOL", wx + 2, 520, 3, GREEN);
